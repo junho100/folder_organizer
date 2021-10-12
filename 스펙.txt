@@ -1,0 +1,9 @@
+mp4, mov -> video 폴더로 이동
+png, aae -> captured 폴더로 이동
+IMG_(E)003123 -> duplicated 폴더로 이동
+(앞에 "E" 붙지않은 원본사진)
+
+node [project] [Pictures 폴더 안 하위 폴더명]
+실행시 시작
+
+히스토리 출력
